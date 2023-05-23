@@ -1,0 +1,1 @@
+Esse é um projeto sinples de Analise de Dados com Python e trigger automatica para disparo de e-mail após analise concluida 
