@@ -10,3 +10,5 @@ Temos uma base de dados Vendas.xslx da qual vamos extrair:
 
 Após a extração dos dados iremos enviar um relatório automático por Email
 
+Após finalizado o serviço ficara assim:
+![image](https://github.com/KhalilNovaes/AnaliseDadosSimples/assets/53480949/cd1ec637-765b-418a-b787-5bcee3eb0aa1)
